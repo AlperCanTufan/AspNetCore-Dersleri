@@ -27,3 +27,4 @@ C:\Users\PC\Desktop\aspnetcore-dersleri\MeetingApp\obj\Debug\net7.0\MeetingApp.R
 C:\Users\PC\Desktop\aspnetcore-dersleri\MeetingApp\obj\Debug\net7.0\MeetingApp.RazorAssemblyInfo.cs
 C:\Users\PC\Desktop\aspnetcore-dersleri\MeetingApp\bin\Debug\net7.0\libman.json
 C:\Users\PC\Desktop\aspnetcore-dersleri\MeetingApp\bin\Debug\net7.0\MeetingApp.staticwebassets.runtime.json
+C:\Users\PC\Desktop\aspnetcore-dersleri\MeetingApp\obj\Debug\net7.0\MeetingApp.sourcelink.json
